@@ -1,0 +1,13 @@
+.calculator {
+  display: flex;
+  gap: 20px;
+}
+.calculator__input {
+  height: 50px;
+  font-size: 30px;
+}
+
+.calculator__calculate {
+  padding: 20px 30px;
+  border-radius: 10px;
+}
