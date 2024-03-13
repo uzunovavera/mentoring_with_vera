@@ -11,3 +11,7 @@
   padding: 20px 30px;
   border-radius: 10px;
 }
+
+.calculator__input-validation-message {
+  color: rgb(132, 4, 4);
+}
