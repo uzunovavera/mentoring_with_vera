@@ -5,6 +5,7 @@
 .calculator__input {
   height: 50px;
   font-size: 30px;
+  text-align: right;
 }
 
 .calculator__calculate {
